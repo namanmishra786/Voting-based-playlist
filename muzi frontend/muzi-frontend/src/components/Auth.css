@@ -1,0 +1,38 @@
+.auth-container {
+    background: #333;
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    max-width: 300px;
+    margin: auto;
+  }
+  
+  .auth-container input {
+    width: 100%;
+    padding: 8px;
+    margin: 8px 0;
+    border-radius: 5px;
+    border: 1px solid #555;
+  }
+  
+  .auth-container button {
+    width: 100%;
+    background: #007BFF;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .auth-container button:hover {
+    background: #0056b3;
+  }
+  
+  .auth-container p {
+    cursor: pointer;
+    text-decoration: underline;
+    margin-top: 10px;
+  }
+  
